@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/filtrado-listas.iml" filepath="$PROJECT_DIR$/.idea/filtrado-listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../state-hooks/.idea/state-hooks.iml" filepath="$PROJECT_DIR$/../../state-hooks/.idea/state-hooks.iml" />
+    </modules>
+  </component>
+</project>
